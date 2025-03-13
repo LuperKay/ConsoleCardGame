@@ -139,6 +139,7 @@ int main()
 
 		if (realPlayer.isDead() || botPlayer.isDead())
 		{
+			//test
 			if (endGame())
 			{
 				return 0;
