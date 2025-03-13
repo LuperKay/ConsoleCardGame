@@ -1,0 +1,8 @@
+﻿  Card.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\format(42): warning STL4038: The contents of <format> are available only with C++20 or later.
+  CardGame.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\optional(11): warning STL4038: The contents of <optional> are available only with C++17 or later.
+F:\Bogdo\C++\ConsoleCardGame\CardGame\CardGame.cpp(7,25): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Player.cpp
+  Generating Code...
+  CardGame.vcxproj -> F:\Bogdo\C++\ConsoleCardGame\x64\Debug\CardGame.exe
